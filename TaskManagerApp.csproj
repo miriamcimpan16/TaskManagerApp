@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="background.jpg" />
+    <None Remove="writing.jpg" />
+    <None Remove="DellaRespira-Regular.ttf" />
+    <None Remove="GreatVibes-Regular.ttf" />
+    <None Remove="girl.png" />
+    <Resource Include="background.jpg" />
+    <Resource Include="girl.png" />
+    <Resource Include="DellaRespira-Regular.ttf" />
+    <Resource Include="GreatVibes-Regular.ttf" />
+  </ItemGroup>
+
+</Project>

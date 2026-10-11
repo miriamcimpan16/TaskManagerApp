@@ -1,0 +1,5 @@
+C:\Users\Deborah\OneDrive\Desktop\TaskManager\TaskManagerApp\bin\Release\net6.0-windows\publish\TaskManagerApp.exe
+C:\Users\Deborah\OneDrive\Desktop\TaskManager\TaskManagerApp\bin\Release\net6.0-windows\publish\TaskManagerApp.dll
+C:\Users\Deborah\OneDrive\Desktop\TaskManager\TaskManagerApp\bin\Release\net6.0-windows\publish\TaskManagerApp.deps.json
+C:\Users\Deborah\OneDrive\Desktop\TaskManager\TaskManagerApp\bin\Release\net6.0-windows\publish\TaskManagerApp.runtimeconfig.json
+C:\Users\Deborah\OneDrive\Desktop\TaskManager\TaskManagerApp\bin\Release\net6.0-windows\publish\TaskManagerApp.pdb
